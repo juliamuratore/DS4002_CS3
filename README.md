@@ -4,7 +4,7 @@
 # Data
 
 # Reference Materials
-“Simone Biles reacts to backlash over husband Jonathan Owens saying he didn’t know her before they dated,” TODAY.com, Dec. 24, 2023. Available: https://www.today.com/popculture/jonathan-owens-simone-biles-how-they-met-rcna130830. [Accessed: Jan. 30, 2024]
+https://www.nbc.com/nbc-insider/olympic-gymnast-simone-biles-husband-medals-achievements
 
 “Features and Updates — VaderSentiment 3.3.1 documentation.” Available: https://vadersentiment.readthedocs.io/en/latest/pages/features_and_updates.html. [Accessed: Jan. 30, 2024]
 
